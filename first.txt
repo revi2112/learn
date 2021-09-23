@@ -1,3 +1,4 @@
-hello hii i am revathi
-
-ALL
+i am learning git in windows because i am not able to instal linux and smtg is wrong with installation
+and i am trying to alternatives to linux which is ugh difficult
+"hello i am revathi"  
+copy can use to rewrite and "echo" to add 
