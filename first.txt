@@ -4,24 +4,3 @@ and i am trying to alternatives to linux which is ugh difficult
 copy can use to rewrite and "echo" to add 
 
 
-
-
-
-
-
-
-
-
-:wq
-:	WQ
-:WQ
-
-:wq
-
-
-
-
-
-:wq
-
-
