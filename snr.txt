@@ -1,0 +1,5 @@
+file created in master creating a breanch and for explorinf rebust
+
+rebust -> chnage in one branch has to be seen in other
+merge -> merge 2 different branches into 1
+
